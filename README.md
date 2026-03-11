@@ -31,8 +31,8 @@ Real-time collaborative Kanban board with drag-and-drop task management and mult
 
 Tech: Next.js • TypeScript • Firebase • Zustand • WebSockets • Shadcn UI  
 
-Live Demo: [https://boardlyv1.vercel.app]  
-GitHub: [https://github.com/Ritoban-Goswami/boardly]
+Live Demo: https://boardlyv1.vercel.app  
+GitHub: https://github.com/Ritoban-Goswami/boardly
 
 ---
 
@@ -42,8 +42,8 @@ Open-source NPM library for extracting dominant color palettes from images.
 
 Tech: JavaScript • Node.js • Canvas API  
 
-NPM: [http://npmjs.com/package/quantize-colors]  
-GitHub: [https://github.com/Ritoban-Goswami/quantize-colors]
+NPM: http://npmjs.com/package/quantize-colors  
+GitHub: https://github.com/Ritoban-Goswami/quantize-colors
 
 ---
 
